@@ -120,9 +120,9 @@ void setup()
   delay(100);
 
   lcd.setCursor(0, 0);              
-  lcd.print("Ciencia");
+  lcd.print("Projeto");
   lcd.setCursor(0, 1);
-  lcd.print("no Parque");
+  lcd.print("Ceu Profundo");
   delay(2000);
 
   lcd.clear();
