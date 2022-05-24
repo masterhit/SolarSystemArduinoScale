@@ -2,7 +2,7 @@
  ****************************************************************************************
  *
  *
- *   SOLAR SYSTEM SCALE V2.0
+ *   SOLAR SYSTEM SCALE V3.0
  *   Author: Wandeclayt M.
  *   wandeclayt [at] gmail dot com
  *   
